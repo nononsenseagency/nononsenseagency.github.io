@@ -1,0 +1,17 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    color: black;
+    background: white;
+    margin: 0;
+}
+.no-word {
+    font-size: 4rem;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100vh;
+    margin: 0;
+}
+.no-word a {
+    text-decoration: none;
+    color: inherit;
+}
